@@ -5,8 +5,8 @@ I’m a school student learning Python and Backend Development. I’m skilled in
 ---
 
 ### 🧠 Currently Learning:
-- Python 🐍
-- Backend Development 🔙 (Node.js, Express)
+- Python OOPS 🐍
+- Backend Development 🔙 (Node.js, Express, React/Angular)
 
 ---
 
