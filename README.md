@@ -1,16 +1,16 @@
 # 👨‍💻 Hi, I'm Mayank
 
-I’m a school student learning Python and Backend Development. I’m skilled in HTML, CSS, and JavaScript, and working on STEM projects with Tinkercad and Minecraft modding.
+I’m a school student learning Databases & Data Science.  I’m skilled in frontend and backend web development, and I work on STEM projects with Tinkercad and Minecraft modding.
 
 ---
 
 ### 🧠 Currently Learning:
-- Python OOPS 🐍
-- Backend Development 🔙 (Node.js, Express, React/Angular)
+- Databases (MongoDB & MySQL) 
+- Data Science (Python Django)
 
 ---
 
 ### 📫 Reach Me:
-- GitHub: [DevmayankrajXD69](https://github.com/DevmayankrajXD69)
+- GitHub: [devempowerjs](https://github.com/devempowerjs)
 
 ---
