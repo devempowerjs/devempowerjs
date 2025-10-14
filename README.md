@@ -15,6 +15,7 @@ I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web develope
 - LinkedIn: [linkedin.com/in/mayank-raj](https://www.linkedin.com/in/devempowerjs)
 - GitHub: [github.com/devempowerjs](https://github.com/devempowerjs)
 - YouTube: [youtube.com/@devempowerjs](https://www.youtube.com/@devempowerjs)
+- Medium: [medium.com/@devempowerjs](https://medium.com/@devempowerjs)
 
 ---
 
