@@ -12,7 +12,7 @@ I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web develope
 
 ### 📫 Connect with Me
 - Website: [devempowerjs.vercel.app](https://devempowerjs.vercel.app)
-- LinkedIn: [linkedin.com/in/mayank-raj](https://www.linkedin.com/in/devempowerjs)
+- LinkedIn: [linkedin.com/in/devempowerjs](https://www.linkedin.com/in/devempowerjs)
 - GitHub: [github.com/devempowerjs](https://github.com/devempowerjs)
 - YouTube: [youtube.com/@devempowerjs](https://www.youtube.com/@devempowerjs)
 - Medium: [medium.com/@devempowerjs](https://medium.com/@devempowerjs)
