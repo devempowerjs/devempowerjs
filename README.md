@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayank Raj (Devempowerjs)
 
-**Mayank Raj**, also known as **Devempowerjs**, is a full-stack web developer and digital creator passionate about building open-source and educational web projects.
+**Mayank Raj**, also known as **Devempowerjs**, I am a full-stack web developer and digital creator passionate about building open-source and educational web projects.
 
 🎓 Currently a **Grade 7 student**  
 🏆 Received the **Community Builder Award 2025** from the **Developers Hub**  
