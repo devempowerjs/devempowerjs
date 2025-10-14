@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Mayank Raj (Devempowerjs)
+# 👋 Hi, I'm Mayank Raj (devempowerjs)
 
-**Mayank Raj**, also known as **Devempowerjs**, I am a full-stack web developer and digital creator passionate about building open-source and educational web projects.
+I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web developer and digital creator passionate about building open-source and educational projects that make technology safer and more accessible.
 
-🎓 Currently a **Grade 7 student**  
-🏆 Received the **Community Builder Award 2025** from the **Developers Hub**  
-💻 Developer of **DigitalGuard**, **SafePost Checker**, and **PassX**  
-🌍 Working on **Digital Footprint Awareness in Teenagers** under *Eureka Junior* (Team Dynamo)  
-🚀 Skilled in **HTML, CSS, JavaScript, Node.js, and React**
+🎓 I'm currently studying in **Grade 7**.  
+🏆 In **2025**, I received the **Community Builder Award** from the **Local Developers Hub** for my contribution to digital awareness and open-source learning.  
+💻 I’ve built **DigitalGuard**, **SafePost Checker**, and **PassX**, each focused on improving online safety and productivity.  
+🌍 I represent my school in **Eureka Junior** (Team *Dynamo*), where we work on topics like **Digital Footprint Awareness in Teenagers**.  
+🚀 I’m skilled in **HTML, CSS, JavaScript, Node.js, and React**, and I love turning ideas into functional web apps.
 
 > “Technology is not just about code — it’s about creating something meaningful.”
 
 ### 📫 Connect with Me
 - Website: [devempowerjs.vercel.app](https://devempowerjs.vercel.app)
-- LinkedIn: [linkedin.com/in/mayank-raj](https://www.linkedin.com/in/mayank-raj)
+- LinkedIn: [linkedin.com/in/mayank-raj](https://www.linkedin.com/in/devempowerjs)
 - GitHub: [github.com/devempowerjs](https://github.com/devempowerjs)
 - YouTube: [youtube.com/@devempowerjs](https://www.youtube.com/@devempowerjs)
 
