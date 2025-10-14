@@ -1,18 +1,21 @@
-# 👨‍💻 Hi, I'm Mayank
+# 👋 Hi, I'm Mayank Raj (Devempowerjs)
 
-I’m a school student currently learning Databases, C++ & Data Science.  I’m skilled in frontend and backend web development, and I work on STEM projects with Tinkercad and Minecraft modding.
+**Mayank Raj**, also known as **Devempowerjs**, is a full-stack web developer and digital creator passionate about building open-source and educational web projects.
+
+🎓 Currently a **Grade 7 student**  
+🏆 Received the **Community Builder Award 2025** from the **Developers Hub**  
+💻 Developer of **DigitalGuard**, **SafePost Checker**, and **PassX**  
+🌍 Working on **Digital Footprint Awareness in Teenagers** under *Eureka Junior* (Team Dynamo)  
+🚀 Skilled in **HTML, CSS, JavaScript, Node.js, and React**
+
+> “Technology is not just about code — it’s about creating something meaningful.”
+
+### 📫 Connect with Me
+- Website: [devempowerjs.vercel.app](https://devempowerjs.vercel.app)
+- LinkedIn: [linkedin.com/in/mayank-raj](https://www.linkedin.com/in/mayank-raj)
+- GitHub: [github.com/devempowerjs](https://github.com/devempowerjs)
+- YouTube: [youtube.com/@devempowerjs](https://www.youtube.com/@devempowerjs)
 
 ---
 
-### 🧠 Currently Learning:
-- Databases (MongoDB & MySQL) 
-- Data Science (Python Django)
-- C++ 
-
----
-
-### 📫 Reach Me:
-- GitHub: [devempowerjs](https://github.com/devempowerjs)
-- Email: mayankrajpis2013@gmail.com
-
----
+⭐️ *Mayank Raj — Web Developer • Creator • Student Innovator • Community Builder Awardee (2025)*
