@@ -4,6 +4,7 @@ I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web develope
 
 🎓 I'm currently a **school student**.  
 🏆 In **2025**, I received the **Community Builder Award** from the **Developers Hub** for my contribution to digital awareness and open-source learning & also won the **Best Developer Of The Year Award 2025** from **E-Cell IIT Bombay.**
+
 💻 I’ve built **DigitalGuard**, **SafePost Checker**, and **PassX**, each focused on improving online safety and productivity.  
 🌍 I represent my school in **Eureka Junior** (Team *Dynamo*), where we work on topics like **Digital Footprint Awareness in Teenagers**.  
 🚀 I’m skilled in **HTML, CSS, JavaScript, Node.js, and React**, and I love turning ideas into functional web apps.
