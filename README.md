@@ -16,16 +16,6 @@ I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web develope
 
 ---
 
-## 📫 Connect with Me
-- Website: [devempowerjs.vercel.app](https://devempowerjs.vercel.app)
-- LinkedIn: [linkedin.com/in/devempowerjs](https://www.linkedin.com/in/devempowerjs)
-- GitHub: [github.com/devempowerjs](https://github.com/devempowerjs)
-- YouTube: [youtube.com/@devempowerjs](https://www.youtube.com/@devempowerjs)
-- Medium: [medium.com/@devempowerjs](https://medium.com/@devempowerjs)
-- Email: [mayankrajpis2013@gmail.com](mailto:mayankrajpis2013@gmail.com)
-
----
-
 ## 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,7 +49,6 @@ I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web develope
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=devempowerjs&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
@@ -67,5 +56,17 @@ I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web develope
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devempowerjs&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+
+## 📫 Connect with Me
+- Website: [devempowerjs.vercel.app](https://devempowerjs.vercel.app)
+- LinkedIn: [linkedin.com/in/devempowerjs](https://www.linkedin.com/in/devempowerjs)
+- GitHub: [github.com/devempowerjs](https://github.com/devempowerjs)
+- YouTube: [youtube.com/@devempowerjs](https://www.youtube.com/@devempowerjs)
+- Medium: [medium.com/@devempowerjs](https://medium.com/@devempowerjs)
+- Email: [mayankrajpis2013@gmail.com](mailto:mayankrajpis2013@gmail.com)
+
+
+
 
 ⭐️ *Mayank Raj — Web Developer • Creator • Student Innovator • Community Builder Awardee (2025)*
