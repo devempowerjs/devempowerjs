@@ -10,7 +10,7 @@ I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web develope
 
 💻 I’ve built **DigitalGuard**, **SafePost Checker**, and **PassX**, each focused on improving online safety and productivity.  
 🌍 I represent my school in **Eureka! Junior** (Team *Dynamo*), working on topics like **Digital Footprint Awareness in Teenagers**.  
-🚀 I’m skilled in **HTML, CSS, JavaScript, Node.js, and React**, and I love turning ideas into functional, real-world web applications.
+🚀 I’m skilled at **Presenting, Communication, Public Speaking, Leadership, Bussiness, and logical thinking**, and I love turning ideas into functional, real-world web applications.
 
 > “Technology is not just about code — it’s about creating something meaningful.”
 
