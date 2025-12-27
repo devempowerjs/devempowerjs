@@ -2,18 +2,23 @@
 
 # 👋 Hi, I'm Mayank Raj (devempowerjs)
 
-I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web developer and digital creator passionate about building open-source and educational projects that make technology safer and more accessible.
+I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web developer and student innovator focused on building secure, educational, and socially relevant technology.
 
-🎓 I'm currently a **school student**.  
-🏆 In **2025**, I received the **Community Builder Award** from the **Developers Hub** for my contributions to digital awareness and open-source learning.  
-🏅 In the same year, I was selected as a **Top Finalist at Eureka! Junior**, organized by **E-Cell, IIT Bombay**, representing **Bihar as one of only four students statewide** and the **sole finalist from my entire district**.
+# 🏆 Highlights
 
-💻 I’ve built **DigitalGuard**, **SafePost Checker**, and **PassX**, each focused on improving online safety and productivity.  
-🌍 I represent my school in **Eureka! Junior** (Team *Dynamo*), working on topics like **Digital Footprint Awareness in Teenagers**.  
-🚀 I’m skilled at **Presenting, Communication, Public Speaking, Leadership, Bussiness, and logical thinking**, and I love turning ideas into functional, real-world web applications.
+🏅 Community Builder Award — Developers Hub (2024)
+🔹 Recognized for contributions to digital awareness, open-source learning, and student tech initiatives.
 
-> “Technology is not just about code — it’s about creating something meaningful.”
+🌏 Eureka! Junior Asia-Level Innovation Finalist (AISA, 2025)
+🚀 Finalist at E-Cell, IIT Bombay for an innovation on Digital Footprint Awareness in Teenagers (Team Dynamo).
 
+💻 Full-Stack Engineering Excellence (2025)
+⚙️ Awarded for end-to-end development of production-ready web applications.
+
+🎓 School student • 🌍 Open-source & social-impact projects
+🛠️ Built DigitalGuard, SafePost Checker, and PassX
+
+✨ Technology is not just about code — it’s about creating something meaningful.
 ---
 
 ## 💻 Tech Stack
@@ -69,4 +74,4 @@ I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web develope
 
 
 
-⭐️ *Mayank Raj — Web Developer • Creator • Student Innovator • Community Builder Awardee (2025)*
+⭐️ *Mayank Raj — Web Developer • Creator • Student Innovator • Community Builder Awardee (2024)*
