@@ -1,6 +1,6 @@
-## 💫 About Me
+# 💫 About Me
 
-# 👋 Hi,
+# 👋 Hi, I'm Mayank Raj (devempowerjs)
 
 I'm **Mayank Raj**, also known as **devempowerjs** — a full-stack web developer and student innovator focused on building secure, educational, and socially relevant technology.
 
