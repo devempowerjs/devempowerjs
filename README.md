@@ -65,9 +65,8 @@ Now, I’m  into **Data Science & DSA**, with a mission to build intelligent, im
 ---
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=devempowerjs&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=devempowerjs&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devempowerjs&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](github-readme-stats-bice-eta-16.vercel.app/api?username=devempowerjs&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+![](github-readme-stats-bice-eta-16.vercel.app/api/top-langs/?username=devempowerjs&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
