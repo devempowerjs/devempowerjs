@@ -74,13 +74,14 @@ Now, I’m  into **Data Science & DSA**, with a mission to build intelligent, im
 
 ## 📫 Connect with Me
 - Website: [devempowerjs.vercel.app](https://devempowerjs.vercel.app)
-- LinkedIn: [linkedin.com/in/devempowerjs](https://www.linkedin.com/in/devempowerjs)
-- GitHub: [github.com/devempowerjs](https://github.com/devempowerjs)
-- YouTube: [youtube.com/@devempowerjs](https://www.youtube.com/@devempowerjs)
-- Medium: [medium.com/@devempowerjs](https://medium.com/@devempowerjs)
 - Email: [mayankrajpis2013@gmail.com](mailto:mayankrajpis2013@gmail.com)
-
-
-
+<p align="left">
+<a href="https://github.com/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devempowerjs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devempowerjs" height="30" width="40" /></a>
+<a href="https://kaggle.com/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devempowerjs" height="30" width="40" /></a>
+<a href="https://twitter.com/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devempowerjs" height="30" width="40" /></a>
+<a href="https://medium.com/@devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devempowerjs" height="30" width="40" /></a>
+<a href="https://leetcode.com/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devempowerjs" height="30" width="40" /></a>
+</p>
 
 ⭐️ *Mayank Raj — data science enthusiast • Creator • Student Innovator • Community Builder Awardee (2024)*
