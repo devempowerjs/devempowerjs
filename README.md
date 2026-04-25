@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mayank Raj</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Mayank%20Raj%20(devempowerjs)&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">Student Innovator • Data Science Enthusiast • Builder</h3>
 
 <p align="center">
@@ -80,6 +83,11 @@ Now, I’m into **Data Science & DSA**, with a mission to build intelligent, imp
   <img src="https://github-readme-stats-bice-eta-16.vercel.app/api?username=devempowerjs&theme=merko&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats-bice-eta-16.vercel.app/api/top-langs/?username=devempowerjs&theme=merko&layout=compact" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devempowerjs&theme=merko" />
+</p>
+
 
 ---
 
