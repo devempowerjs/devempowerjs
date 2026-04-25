@@ -85,6 +85,9 @@ Now, I’m into **Data Science & DSA**, with a mission to build intelligent, imp
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devempowerjs&theme=merko" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devempowerjs&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 
 ---
