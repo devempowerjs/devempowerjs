@@ -78,12 +78,24 @@ Now, I’m  into **Data Science & DSA**, with a mission to build intelligent, im
 - Website: [devempowerjs.vercel.app](https://devempowerjs.vercel.app)
 - Email: [mayankrajpis2013@gmail.com](mailto:mayankrajpis2013@gmail.com)
 <p align="left">
-<a href="https://github.com/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devempowerjs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devempowerjs" height="30" width="40" /></a>
-<a href="https://kaggle.com/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devempowerjs" height="30" width="40" /></a>
-<a href="https://twitter.com/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devempowerjs" height="30" width="40" /></a>
-<a href="https://medium.com/@devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devempowerjs" height="30" width="40" /></a>
-<a href="https://leetcode.com/devempowerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devempowerjs" height="30" width="40" /></a>
+  <a href="https://github.com/devempowerjs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/devempowerjs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/devempowerjs" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/devempowerjs" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@devempowerjs" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/devempowerjs" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ⭐️ *Mayank Raj — data science enthusiast • Creator • Student Innovator • Community Builder Awardee (2024)*
