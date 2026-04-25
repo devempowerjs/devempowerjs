@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Mayank%20Raj%20(devempowerjs)&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=130&section=header&text=Mayank%20Raj%20(devempowerjs)%20%7C%20Engineering%20Impact%20Through%20Code&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Student Innovator • Data Science Enthusiast • Builder</h3>
