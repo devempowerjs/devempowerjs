@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=130&section=header&text=Mayank%20Raj%20(devempowerjs)%20%7C%20Engineering%20Impact%20Through%20Code&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Student Innovator • Data Science Enthusiast • Builder</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Real-World+Data+Solutions;Full-Stack+Developer+to+Data+Scientist;Open-Source+%26+Social+Impact+Projects;Always+Learning+%F0%9F%9A%80" />
 </p>
