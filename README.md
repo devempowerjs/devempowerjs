@@ -19,11 +19,11 @@
 
 ## 💫 About Me
 
-I'm **Mayank Raj**, also known as **devempowerjs** — a **student innovator and data science enthusiast** focused on building **real-world, data-driven solutions**.
+I'm **Mayank Raj** (devempowerjs), a student developer passionate about **software engineering, full-stack development, and software architecture**.
 
-I started my journey with full-stack web development, where I built production-ready applications and worked on real-world problems. That experience shaped my thinking as a **problem-solver and system builder**.
+I enjoy designing scalable systems, building production-ready applications, solving challenging engineering problems, and turning ideas into real-world products.
 
-Now, I’m into **Data Science & DSA**, with a mission to build intelligent, impactful, and scalable solutions.
+My current focus is strengthening my foundations in **Python, software development, computer science fundamentals, and system design**, while building projects that create meaningful impact.
 
 ---
 
@@ -84,4 +84,4 @@ Now, I’m into **Data Science & DSA**, with a mission to build intelligent, imp
 - 🌐 Website: https://devempowerjs.vercel.app  
 - 📧 Email: mayankrajpis2013@gmail.com  
 
-⭐️ *Mayank Raj — Data Science Enthusiast • Creator • Student Innovator*
+⭐️ *Mayank Raj — Software Engineering • Full-Stack Development • Student Innovator*
