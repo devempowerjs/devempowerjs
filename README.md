@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=130&section=header&text=Mayank%20Raj%20(devempowerjs)%20%7C%20Engineering%20Impact%20Through%20Code&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=130&section=header&text=Mayank%20Raj%20%7C%20Building%20Software%20That%20Matters&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -93,10 +93,6 @@ My current focus is strengthening my foundations in **Python, software developme
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devempowerjs&theme=merko" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devempowerjs&theme=react-dark&hide_border=true&area=true" />
-</p>
-
 
 ---
 
