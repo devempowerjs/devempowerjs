@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Real-World+Data+Solutions;Full-Stack+Developer+to+Data+Scientist;Open-Source+%26+Social+Impact+Projects;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Software+That+Matters;Full-Stack+Development+%26+Computer+Science;Engineering+Ideas+into+Reality;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -37,9 +37,7 @@ My current focus is strengthening my foundations in **Python, software developme
 
 💻 **Full-Stack Engineering Excellence (2025)**  
 ⚙️ Built production-ready applications end-to-end  
-
-🎓 School student • 🌍 Open-source & social-impact projects  
-🛠️ Built **DigitalGuard, SafePost Checker, PassX**  
+🛠️ Built **DigitalGuard, Truth Engine, SafePost Checker, PassX**
 
 ✨ *Technology is not just about code — it’s about creating something meaningful.*
 
@@ -47,19 +45,42 @@ My current focus is strengthening my foundations in **Python, software developme
 
 ## 💻 Tech Stack
 
-### 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/express-404d59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
+### 🧠 Languages
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
