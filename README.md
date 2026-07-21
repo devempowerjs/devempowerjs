@@ -99,6 +99,6 @@ My current focus is strengthening my foundations in **Python, software developme
 ## 📫 Connect with Me
 
 - 🌐 Website: https://devempowerjs.vercel.app  
-- 📧 Email: mayankrajpis2013@gmail.com  
+- 📧 Email: dev.mayankraj@gmail.com  
 
 ⭐️ *Mayank Raj — Software Engineering • Full-Stack Development • Student Innovator*
